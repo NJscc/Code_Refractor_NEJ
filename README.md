@@ -38,7 +38,7 @@ https://njscc.github.io/Code_Refractor_NEJ/
 
 
 This is a screenshot demonstration of the top half of the webpage:
-![Image of webpage top.](./Code_Files/assets/images/webpage_top.png)
+![Image of webpage top.](./assets/images/webpage_top.png)
 
 This is a screenshot demonstration of the middle of the webpage:
-![Image of webpage bottom](./Code_Files/assets/images/webpage_middle.png)
+![Image of webpage bottom](./assets/images/webpage_middle.png)
