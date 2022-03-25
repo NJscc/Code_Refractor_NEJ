@@ -34,6 +34,7 @@ A list of code corrections (in no particular order):
 
 
 -Link to deployed application-
+https://njscc.github.io/Code_Refractor_NEJ/ 
 
 
 This is a screenshot demonstration of the top half of the webpage:
